@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: zhang1111
+    password: ****
     url: jdbc:mysql://167.99.69.25:3306/test
   jpa:
     show-sql: true
