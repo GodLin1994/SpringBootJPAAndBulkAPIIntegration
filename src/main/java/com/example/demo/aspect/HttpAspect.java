@@ -16,7 +16,7 @@ public class HttpAspect {
     //记录日志的方法，SPRING自带的记录日的的方法
     private final static Logger logger = LoggerFactory.getLogger(HttpAspect.class);
 
-    @Pointcut("execution(public * com.example.demo.controller.UserController.*(..))")
+    @Pointcut("execution(public * com.example.demo.controller.Account2SDFC.*(..))")
     public void log() {
 
     }
