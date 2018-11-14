@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: *******
-    url: jdbc:mysql://167.99.69.25:3306/test
+    password: ****
+    url: jdbc:mysql://45.199.156.122:3307/testBulk
   jpa:
     show-sql: true
     hibernate:
